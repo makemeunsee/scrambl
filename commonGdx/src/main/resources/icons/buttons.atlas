@@ -1,0 +1,211 @@
+
+buttons.png
+size: 458,508
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back_random_button
+  rotate: false
+  xy: 2, 202
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+back_random_button_48_checked
+  rotate: false
+  xy: 260, 460
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+back_random_button_48_down
+  rotate: false
+  xy: 2, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+checkbox_off
+  rotate: false
+  xy: 152, 176
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+checkbox_on
+  rotate: false
+  xy: 202, 226
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+checkered
+  rotate: false
+  xy: 52, 202
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+crosshair
+  rotate: false
+  xy: 2, 252
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+default-box
+  rotate: false
+  xy: 310, 350
+  size: 8, 8
+  split: 2, 2, 2, 2
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+default-slider-knob
+  rotate: false
+  xy: 260, 299
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+empty_button
+  rotate: false
+  xy: 260, 410
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+empty_button_48_down
+  rotate: false
+  xy: 310, 460
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flake_button
+  rotate: false
+  xy: 2, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+flake_button_48_down
+  rotate: false
+  xy: 52, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+front_random_button
+  rotate: false
+  xy: 102, 202
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+front_random_button_48_checked
+  rotate: false
+  xy: 260, 360
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+front_random_button_48_down
+  rotate: false
+  xy: 310, 410
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+full_random_button
+  rotate: false
+  xy: 360, 460
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+full_random_button_48_checked
+  rotate: false
+  xy: 2, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+full_random_button_48_down
+  rotate: false
+  xy: 52, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+help_button
+  rotate: false
+  xy: 102, 152
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+help_button_bigger
+  rotate: false
+  xy: 102, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+left_button
+  rotate: false
+  xy: 152, 202
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+left_button_48_down
+  rotate: false
+  xy: 260, 310
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+menu_button
+  rotate: false
+  xy: 310, 360
+  size: 48, 48
+  split: 8, 8, 8, 8
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+noise_random_button
+  rotate: false
+  xy: 360, 410
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+noise_random_button_48_checked
+  rotate: false
+  xy: 410, 460
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+noise_random_button_48_down
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+right_button
+  rotate: false
+  xy: 52, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: 48
+right_button_48_down
+  rotate: false
+  xy: 102, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+Improvements:
+Scalaxy/Streams or Scala Blitz, to test/benchmark
+add more tests
+
+clean up last profiling logs
+
+simplify shaders/animation
+allow seed input
+allow shader input
+finish "rendering edit mode", with export / import of renderings -> to webgl/html5
+create "create flake mode"
+add highscore board
+provide difficulty levels (changing the size if the flake)
+add sounds? each hexagon has its sound, dying makes dissonant sound
+see how to put on an app store

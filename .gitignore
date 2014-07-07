@@ -1,0 +1,12 @@
+sbt.bat
+.history
+.idea/
+.idea_modules/
+target/
+**/target/
+**/bin/
+**/lib/
+**/.settings/
+**/.cache
+**/.classpath
+**/.project

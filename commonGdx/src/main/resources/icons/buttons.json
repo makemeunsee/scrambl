@@ -1,0 +1,23 @@
+{
+  com.badlogic.gdx.graphics.g2d.BitmapFont: {
+    default-font: { file: fonts/ubuntu_mono_16.fnt },
+    bigger-font: { file: fonts/ubuntu_mono_32.fnt }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+    default-horizontal: { background: default-box, knob: default-slider-knob },
+    default-vertical: { background: default-box, knob: default-slider-knob }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+    default: { checkboxOn: checkbox_on, checkboxOff: checkbox_off }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+    default: { font: default-font, up: menu_button }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+    help: { up: help_button },
+    help_bigger: { up: help_button_bigger }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+    default: { font: default-font }
+  }
+}
