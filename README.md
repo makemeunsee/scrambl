@@ -52,9 +52,9 @@ Usual sbt commands "sbt gen-idea" and "eclipse" should work fine.
 Feature ideas / future improvements
 -----------------------------------
 
-- Improve test coverage
+- Improve test coverage.
 
-- Try scala improved collections such as Scalaxy or Scala Blitz
+- Try scala improved collections such as Scalaxy or Scala Blitz.
 
 - Allow for full customization of renderings in "flake explorer", with export.
 
@@ -71,4 +71,4 @@ Feature ideas / future improvements
 Licensing
 ---------
 
-Unless specified otherwise, all code in this repo is available udner the [GPLv3](http://www.gnu.org/copyleft/gpl.html)
+Unless specified otherwise, all code in this repo is available under the [GPLv3](http://www.gnu.org/copyleft/gpl.html)
