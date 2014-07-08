@@ -7,7 +7,7 @@ It runs on android, windows, linux and mac (probably).
 
 Cool features: 2D hexagonal grid, customizable opengl shaders, flake generation algorithm.
 
-![alt tag](http://imgur.com/z8nFbfd)
+![such flake!](http://imgur.com/z8nFbfd "A rendering example")
 
 [Gallery](http://imgur.com/OfKU9T4,GCv0NQk,z8nFbfd,8FuXb6a,mzfKwo0,kdr4JnG,rNxV5M8,AlyuyEF)
 
