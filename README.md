@@ -3,11 +3,11 @@ Scrambl
 
 Scrambl is a scala + libgdx playground and game engine stub.
 
-It runs on android, windows, linux and mac (probably).
+It runs on android, windows, linux and mac (probably). IOS should not be too hard to support.
 
 Cool features: 2D hexagonal grid, customizable opengl shaders, flake generation algorithm.
 
-![such flake!](screen_1404823834291.png?raw=true "A rendering example")
+![A rendering example](screen_1404823834291.png?raw=true "such flake!")
 
 [Gallery](http://imgur.com/OfKU9T4,GCv0NQk,z8nFbfd,8FuXb6a,mzfKwo0,kdr4JnG,rNxV5M8,AlyuyEF)
 
@@ -36,7 +36,7 @@ Package android app: sbt android/package
 Mains
 -----
 
-Several mains are available to run in on desktop:
+Several mains are available to run on desktop:
 
 - Roaming: the only 'completed' game. It implements the simplest gameplay (build a flake), intended as a proof of concept. It's the application actually packed in the android builds.
 
@@ -47,7 +47,7 @@ Several mains are available to run in on desktop:
 IDE
 ---
 
-"sbt gen-idea" and "eclipse" should work fine.
+Usual sbt commands "sbt gen-idea" and "eclipse" should work fine.
 
 Feature ideas / future improvements
 -----------------------------------
@@ -67,3 +67,8 @@ Feature ideas / future improvements
 - Deploy to app store?
 
 - Port engine to javascript/webgl.
+
+Licensing
+---------
+
+Unless specified otherwise, all code in this repo is available udner the [GPLv3](http://www.gnu.org/copyleft/gpl.html)
